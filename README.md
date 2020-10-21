@@ -1,6 +1,5 @@
 # Dual-Temperature-Meter JQuery Plugin
-Dual-Temperature-Meter plugin is a JavaScript library that helps your create beautiful, dynamic temperature meter with two type of temperature units (Fahrenheit, Celsius) information. You can change your temperature meter's indication color.
-
+Dual-Temperature-Meter plugin is a JavaScript library that helps you to create a beautiful, dynamic temperature meter with two types of temperature units (Fahrenheit, Celsius) information. You can change your temperature meter's indication color.
 ![alt text](https://github.com/saravanansdesign/dual-temperature-meter/blob/master/sample/sample.png?raw=true)
 <!-- GETTING STARTED -->
 ## Getting Started
