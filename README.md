@@ -10,7 +10,7 @@ To get a local copy up and running follow these simple example steps.
 ### Download
 
 1. Download the [dual-temperature-meter.min.js](https://github.com/saravanansdesign/dual-temperature-meter/blob/master/dual-temperature-meter.min.js) file & "temperature-img.png".
-2. And use the below mentioned files
+2. And refer those files on your project header
 ```sh
 <script src="jquery-3.5.1.min.js"></script>
 <script src="dual-temperature-meter.min.js" type="text/javascript"></script>
