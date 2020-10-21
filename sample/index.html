@@ -14,10 +14,10 @@
     $(document).ready(function(){
         $("#thermometer").dualTemperatureMeter({
             target : "thermometer",
-            degree : "",
-            height : null,
-            temperature : "",
-            color : 0,
+            degree : "f",
+            height : 300,
+            temperature : 60,
+            color : "#f41e33",
             actions : function(value){
                 //Temperature conversion values in (°F, °C) both units
             }
