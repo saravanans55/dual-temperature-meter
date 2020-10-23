@@ -22,6 +22,11 @@ $("#thermometer").dualTemperatureMeter({
             height : 300,                   // Meter Height
             temperature : 60,               // Input Temperature
             color : "#f41e33",              // Custom Level Indication Color
+            t_high_bg : "#f41e33", // High Level Temperature Indication Color
+            t_good_bg : "#2ecc71", // Correct Level Temperature Indication Color
+            t_low_bg : "#19b5fe", // Low Level Temperature Indication Color
+            temp_max : 20, // Maximum Threshold
+            temp_min : -20 // Minimum Threshold
             actions : function(value){
                 //Temperature conversion values in (°F, °C) both units
             }
